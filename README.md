@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+Here we learn how simple it is to start using TypeScript in React.
+
+n.b. `npx create-react-app <project-name> --template typescript `
+
+**Introduction to TypeScript in React: https://www.youtube.com/watch?v=0cXccUew19k**
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
