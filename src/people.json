@@ -1,0 +1,29 @@
+[
+  {
+   "name": "Joe",
+    "birthDate": "2020-01-01",
+    "birthLoc": {
+      "lat": "22W",
+      "long": "33N",
+      "height": "123"
+    }
+  },
+  {
+  "name": "Jane",
+  "birthDate": "1999-01-01",
+  "birthLoc": {
+    "lat": "12W",
+    "long": "34N",
+    "height": "1234"
+  }
+  },
+  { 
+  "name": "Phil",
+  "birthDate": "1988-01-01",
+  "birthLoc": {
+    "lat": "90W",
+    "long": "90N",
+    "height": "1000"
+  }
+  }
+]
