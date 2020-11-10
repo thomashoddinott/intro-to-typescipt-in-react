@@ -1,8 +1,10 @@
 Here we learn how simple it is to start using TypeScript in React.
 
-n.b. `npx create-react-app <project-name> --template typescript `
+This is achieved through the use of an interface [PersonProps](./src/Person.tsx#L3)
 
 **Introduction to TypeScript in React: https://www.youtube.com/watch?v=0cXccUew19k**
+
+n.b. `npx create-react-app <project-name> --template typescript `
 
 ---
 
